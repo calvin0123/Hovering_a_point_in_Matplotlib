@@ -3,7 +3,7 @@ import numpy as np
 
 
 pizza = ['Honey Cheese', 'Margarita', 'Seafood', 'Onion pork']			# xLabel is the flavor of pizza
-num = [10, 12 , 5, 7]													# yLabel is the total sales of each flavor
+num = [10, 12 , 5, 7]								# yLabel is the total sales of each flavor
 
 num_d = {'family':[4,4,2,2], 'couple':[3,4,1,3], 'alone':[3,4,2,2]}		# Dict shows the sales of flavor of each group 
 
